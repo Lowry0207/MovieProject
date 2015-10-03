@@ -1,0 +1,30 @@
+
+.pagination a.active{
+	color:white;
+	background-color: green;
+}
+
+.bs-glyphicons .glyphicon-class {
+    display: block;
+    text-align: center;
+    word-wrap: break-word;
+}
+
+.main-info,.other-info{
+    color: #38525C;
+    text-align: center;
+    font-weight: bold;
+
+}
+.main-info{
+    font-size: 20px;
+}
+
+.other-info{
+	border-top: 1px solid silver;
+}
+
+
+  #selectable .ui-selecting { cursor: pointer; }
+  #selectable .ui-selected { background: #4C88BC; color: white; }
+  #selectable li { cursor: pointer; }
